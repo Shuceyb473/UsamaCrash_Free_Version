@@ -42,9 +42,7 @@ npm start
 
 ## 📞 **Direct Contact**
 **WhatsApp:** [+923239601585](https://wa.me/923239601585)  
-**Telegram:** [@UsamaDhuddi](https://t.me/UsamaDhuddi)  
-**Instagram:** [@UsamaDhuddi](https://instagram.com/UsamaDhuddi)  
-**YouTube:** [@UsamaDhuddi](https://youtube.com/@UsamaDhuddi)
+**Telegram:** [@UsamaDhuddi](https://t.me/UsamaDhuddi960)
 
 ## 🛠️ **Configuration**
 ```javascript
